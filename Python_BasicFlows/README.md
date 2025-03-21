@@ -65,8 +65,13 @@ python channelFlow.py
 
 | Visualization Type     | Output Image                                |
 |------------------------|---------------------------------------------|
+<<<<<<< HEAD
 | Velocity Field (Quiver)| <img src="results/cavity_flow_velocity_quiver.png" width="400"/> | | Streamlines            | <img src="results/cavity_flow_streamlines.png" width="400"/> |
 
+=======
+| Velocity Field (Quiver)| <img src="results/cavity_flow_velocity_quiver.png" width="500"/> |
+| Streamlines            | <img src="results/cavity_flow_streamlines.png" width="500"/> |
+>>>>>>> 00d06c0 (Update image sizing in README using HTML for better layout)
 
 
 #### Observations:
@@ -80,10 +85,10 @@ python channelFlow.py
 
 | Visualization Type             | Output Image                                      |
 |--------------------------------|---------------------------------------------------|
-| Velocity Field (Quiver)        | <img src="results/channel_flow_velocity_quiver.png" width="400"/> |
-| Smoothed Velocity Magnitude    | <img src="results/channel_flow_velocity_magnitude_smoothed.png" width="400"/> |
-| Smoothed Vorticity Field       | <img src="results/channel_flow_vorticity_smoothed.png" width="400"/> |
-| Centerline Velocity Profile    | <img src="results/channel_flow_centerline_velocity.png" width="400"/> |
+| Velocity Field (Quiver)        | <img src="results/channel_flow_velocity_quiver.png" width="500"/> |
+| Smoothed Velocity Magnitude    | <img src="results/channel_flow_velocity_magnitude_smoothed.png" width="500"/> |
+| Smoothed Vorticity Field       | <img src="results/channel_flow_vorticity_smoothed.png" width="500"/> |
+| Centerline Velocity Profile    | <img src="results/channel_flow_centerline_velocity.png" width="500"/> |
 
 
 #### Observations:
