@@ -1,4 +1,4 @@
-# Basic Flows: Classical CFD Simulations in Python
+# Basic Flows: CFD Simulations in Python
 
 This folder contains two classic CFD flow problems implemented using **finite difference methods in Python**. These examples are foundational and serve as a base for learning numerical simulation, and understanding flow physics.
 
@@ -65,8 +65,9 @@ python channelFlow.py
 
 | Visualization Type     | Output Image                                |
 |------------------------|---------------------------------------------|
-| Velocity Field (Quiver)| ![Quiver](results/cavity_flow_velocity_quiver.png)           |
-| Streamlines            | ![Streamlines](results/cavity_flow_streamlines.png)               |
+| Velocity Field (Quiver)| <img src="results/cavity_flow_velocity_quiver.png" width="400"/> |
+| Streamlines            | <img src="results/cavity_flow_streamlines.png" width="400"/> |
+
 
 #### Observations:
 - A strong **primary vortex** forms in the center, driven by the top lid.
@@ -79,10 +80,11 @@ python channelFlow.py
 
 | Visualization Type             | Output Image                                      |
 |--------------------------------|---------------------------------------------------|
-| Velocity Field (Quiver)        | ![Quiver](results/channel_flow_velocity_quiver.png)               |
-| Velocity Magnitude             | ![Velocity Mag](results/channel_flow_velocity_magnitude_smoothed.png)   |
-| Vorticity Field                | ![Vorticity](results/channel_flow_vorticity_smoothed.png)            |
-| Centerline Velocity Profile    | ![Centerline](results/channel_flow_centerline_velocity.png)           |
+| Velocity Field (Quiver)        | <img src="results/channel_flow_velocity_quiver.png" width="400"/> |
+| Smoothed Velocity Magnitude    | <img src="results/channel_flow_velocity_magnitude_smoothed.png" width="400"/> |
+| Smoothed Vorticity Field       | <img src="results/channel_flow_vorticity_smoothed.png" width="400"/> |
+| Centerline Velocity Profile    | <img src="results/channel_flow_centerline_velocity.png" width="400"/> |
+
 
 #### Observations:
 - **Smoothed velocity magnitude** shows a clean velocity distribution profile across the channel height.
