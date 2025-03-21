@@ -65,8 +65,8 @@ python channelFlow.py
 
 | Visualization Type     | Output Image                                |
 |------------------------|---------------------------------------------|
-| Velocity Field (Quiver)| <img src="results/cavity_flow_velocity_quiver.png" width="400"/> |
-| Streamlines            | <img src="results/cavity_flow_streamlines.png" width="400"/> |
+| Velocity Field (Quiver)| <img src="results/cavity_flow_velocity_quiver.png" width="400"/> | | Streamlines            | <img src="results/cavity_flow_streamlines.png" width="400"/> |
+
 
 
 #### Observations:
