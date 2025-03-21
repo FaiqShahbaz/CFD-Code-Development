@@ -65,14 +65,8 @@ python channelFlow.py
 
 | Visualization Type     | Output Image                                |
 |------------------------|---------------------------------------------|
-<<<<<<< HEAD
-| Velocity Field (Quiver)| <img src="results/cavity_flow_velocity_quiver.png" width="400"/> | | Streamlines            | <img src="results/cavity_flow_streamlines.png" width="400"/> |
-
-=======
 | Velocity Field (Quiver)| <img src="results/cavity_flow_velocity_quiver.png" width="500"/> |
 | Streamlines            | <img src="results/cavity_flow_streamlines.png" width="500"/> |
->>>>>>> 00d06c0 (Update image sizing in README using HTML for better layout)
-
 
 #### Observations:
 - A strong **primary vortex** forms in the center, driven by the top lid.
