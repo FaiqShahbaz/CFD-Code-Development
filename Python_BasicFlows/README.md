@@ -95,4 +95,3 @@ python channelFlow.py
 ## Conclusion
 
 These simulations demonstrate fundamental fluid dynamics behaviors using classic numerical methods. Both examples validate the ability to accurately solve the incompressible Navier–Stokes equations using finite difference schemes, and include meaningful post-processing for interpretation. 
-
